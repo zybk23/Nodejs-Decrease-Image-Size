@@ -1,0 +1,7 @@
+File from: [./img/img10mb.jpg]
+
+File to: [build/img/img10mb.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: spawn C:\Users\TAHA\Desktop\decrease_image_size\node_modules\mozjpeg\vendor\cjpeg.exe ENOENT

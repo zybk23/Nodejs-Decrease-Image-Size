@@ -1,0 +1,7 @@
+File from: [manzara.jpg]
+
+File to: [build/img/manzara.jpg]
+
+Compression algorithm: [-]
+
+Description: File does not exist!

@@ -1,0 +1,8 @@
+File from: [./public/uploads/image_.png]
+
+File to: [build/img/image_.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\TAHA\Desktop\decrease_image_size\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o build/img/image_.png ./public/uploads/image_.png
+  error: failed writing image to build/img/image_.png (16)
